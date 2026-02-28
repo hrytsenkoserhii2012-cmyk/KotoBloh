@@ -1,0 +1,21 @@
+
+h1{ 
+   color: blue;
+   font-weight: bold;
+   text-align: center;
+}
+h2{ 
+   color: blueviolet;
+   font-weight: bold;
+   text-align: center;
+}
+body {
+ background-color: rgb(250, 183, 159);
+}
+p{
+ color:rebeccapurple;
+ font-weight: bolder;
+ font-size: large;
+ text-align: left;
+ line-height: 1%;
+}
